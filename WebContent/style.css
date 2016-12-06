@@ -1,0 +1,120 @@
+a{	text-decoration:none;	}
+
+#content{    
+	border-collapse: collapse;
+    text-align: left;
+
+    border-top: 1px solid #ccc;
+}
+table.tableform{
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 0, auto;
+}
+table.tableform thead th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+    background: #e7708d;
+    margin: 20px 10px;
+		text-align: center;
+}
+table.tableform tbody td {
+    width: 150px;
+    padding: 10px;
+	text-align: center;
+
+}
+table.tableform td {
+    width: 150px;
+    padding: 10px;
+    vertical-align: top;
+}
+table.tableform .even {
+    background: #fdf3f5;
+}
+
+table.table_noline{
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0, auto;
+}
+table.table_noline td {
+    width: 150px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+table.tableform{
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 0, auto;
+}
+table.tableform_blue thead th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+    background:#31C8E8;
+    margin: 20px 10px;
+		text-align: center;
+}
+table.tableform_blue tbody td {
+    width: 150px;
+    padding: 10px;
+	text-align: center;
+
+}
+table.tableform_bluem td {
+    width: 150px;
+    padding: 10px;
+    vertical-align: top;
+}
+table.tableform_blue .even {
+    background:#CCFFFF;
+}
+
+
+#n-wrap .n-paging{clear:both;text-align:center;font-size:1px;padding:8px 5px;margin:0;}
+#n-wrap .n-paging *{vertical-align:middle;}
+#n-wrap .n-paging ul{margin:0;}
+#n-wrap .n-paging li{display:inline;}
+#n-wrap .n-paging li a{display:inline-block;min-width:16px;_width:16px;height:20px;padding:0 2px;margin:0 2px 0 1px;line-height:20px;letter-spacing:-1px;text-align:center;font-size:11px;color:#9aa2aa;}
+#n-wrap .n-paging li a.selected{min-width:16px;_width:16px;height:16px;line-height:16px;color:#fff;font-weight:bold;border:1px solid #424a55;background:#677384;}
+#n-wrap .n-paging li em{position:absolute;top:-9999px;left:-9999px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

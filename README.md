@@ -1,1 +1,1 @@
-"# SecureSW: Assignment Management System" 
+"# SecureSW: Assignment Management System"
